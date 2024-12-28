@@ -55,8 +55,24 @@ Prerequisites
 
 6) Pycharm Editor
 
+Practices Followed:
+----------------------
+
+1) Used descriptive and modular functions for readability and reusability.
+
+2) Implemented assertions to validate search results accurately.
+
+3) Added explicit waits to ensure stability and avoid flaky tests.
+
+4) Maintained logs for better debugging and tracking of test execution.
+
+5) Included parameterized test cases for varied inputs.
+
+6) Followed PEP8 coding standards for Python.
+
+
 Running the Script:
 ----------------------
-1) run all tests using Pytest:
+1) run test cases using Pytest:
    pytest -s -v .\testcases\qa_selenium_test.py
 
