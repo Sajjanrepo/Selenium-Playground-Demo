@@ -1196,3 +1196,487 @@ JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76
 JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
 1735217623772	Marionette	INFO	Stopped listening on port 53902
 Dynamically enable window occlusion 1
+1735380228428	geckodriver	INFO	Listening on 127.0.0.1:63420
+1735380231460	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilegHgCWd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380231994	Marionette	INFO	Marionette enabled
+1735380232125	Marionette	INFO	Listening on port 63428
+WebDriver BiDi listening on ws://127.0.0.1:63421
+Read port: 63428
+1735380232332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380237917	Marionette	INFO	Stopped listening on port 63428
+Dynamically enable window occlusion 1
+1735380239127	geckodriver	INFO	Listening on 127.0.0.1:63485
+1735380242134	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63486" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileDwcKRA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380242584	Marionette	INFO	Marionette enabled
+1735380242704	Marionette	INFO	Listening on port 63493
+WebDriver BiDi listening on ws://127.0.0.1:63486
+Read port: 63493
+1735380242892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380248017	Marionette	INFO	Stopped listening on port 63493
+Dynamically enable window occlusion 1
+1735380248814	geckodriver	INFO	Listening on 127.0.0.1:63554
+1735380251822	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileaqHySJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380252137	Marionette	INFO	Marionette enabled
+1735380252241	Marionette	INFO	Listening on port 63562
+WebDriver BiDi listening on ws://127.0.0.1:63555
+Read port: 63562
+1735380252424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380257383	Marionette	INFO	Stopped listening on port 63562
+Dynamically enable window occlusion 1
+1735380258285	geckodriver	INFO	Listening on 127.0.0.1:63622
+1735380261284	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileDRlMWV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380261634	Marionette	INFO	Marionette enabled
+1735380261744	Marionette	INFO	Listening on port 63630
+WebDriver BiDi listening on ws://127.0.0.1:63623
+Read port: 63630
+1735380261919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380266913	Marionette	INFO	Stopped listening on port 63630
+Dynamically enable window occlusion 1
+1735380267806	geckodriver	INFO	Listening on 127.0.0.1:63687
+1735380270834	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofiletErQq7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380271152	Marionette	INFO	Marionette enabled
+1735380271255	Marionette	INFO	Listening on port 63698
+WebDriver BiDi listening on ws://127.0.0.1:63688
+Read port: 63698
+1735380271420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380276958	Marionette	INFO	Stopped listening on port 63698
+Dynamically enable window occlusion 1
+1735380745730	geckodriver	INFO	Listening on 127.0.0.1:63806
+1735380748747	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofiledxneg2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380749084	Marionette	INFO	Marionette enabled
+1735380749197	Marionette	INFO	Listening on port 63814
+WebDriver BiDi listening on ws://127.0.0.1:63807
+Read port: 63814
+1735380749383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380753254	geckodriver	INFO	Listening on 127.0.0.1:63852
+1735380756291	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofiledoarTm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380756714	Marionette	INFO	Marionette enabled
+1735380756838	Marionette	INFO	Listening on port 63894
+WebDriver BiDi listening on ws://127.0.0.1:63853
+Read port: 63894
+1735380757033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380760193	geckodriver	INFO	Listening on 127.0.0.1:63943
+1735380763204	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "63944" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilejqeWAm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380763562	Marionette	INFO	Marionette enabled
+1735380763674	Marionette	INFO	Listening on port 63984
+WebDriver BiDi listening on ws://127.0.0.1:63944
+Read port: 63984
+1735380763861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380767215	geckodriver	INFO	Listening on 127.0.0.1:64033
+1735380770231	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileslJ7kC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380770619	Marionette	INFO	Marionette enabled
+1735380770730	Marionette	INFO	Listening on port 64078
+WebDriver BiDi listening on ws://127.0.0.1:64034
+Read port: 64078
+1735380770814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735380774142	geckodriver	INFO	Listening on 127.0.0.1:64128
+1735380777159	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileATJOCk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735380777643	Marionette	INFO	Marionette enabled
+1735380777767	Marionette	INFO	Listening on port 64172
+WebDriver BiDi listening on ws://127.0.0.1:64129
+Read port: 64172
+1735380777852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://bat.bing.com/bat.js, line 1: Script terminated by timeout at:
+UET/this.clone@https://bat.bing.com/bat.js:1:40516
+UET/this.combine@https://bat.bing.com/bat.js:1:40595
+UET/this.fireSendBeacon@https://bat.bing.com/bat.js:1:42166
+UET/this.firePageHide@https://bat.bing.com/bat.js:1:41552
+
+1735380839908	Marionette	INFO	Stopped listening on port 64172
+Dynamically enable window occlusion 1
+1735381159364	geckodriver	INFO	Listening on 127.0.0.1:64499
+1735381162405	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64500" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileWRcWSg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381162941	Marionette	INFO	Marionette enabled
+1735381163083	Marionette	INFO	Listening on port 64509
+WebDriver BiDi listening on ws://127.0.0.1:64500
+Read port: 64509
+1735381163283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381169477	Marionette	INFO	Stopped listening on port 64509
+Dynamically enable window occlusion 1
+1735381170409	geckodriver	INFO	Listening on 127.0.0.1:64568
+1735381173442	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64569" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileLbCf1E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381173822	Marionette	INFO	Marionette enabled
+1735381173936	Marionette	INFO	Listening on port 64578
+WebDriver BiDi listening on ws://127.0.0.1:64569
+Read port: 64578
+1735381174095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381179607	Marionette	INFO	Stopped listening on port 64578
+Dynamically enable window occlusion 1
+1735381180523	geckodriver	INFO	Listening on 127.0.0.1:64641
+1735381183565	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilef4nqFp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381183892	Marionette	INFO	Marionette enabled
+1735381184014	Marionette	INFO	Listening on port 64650
+WebDriver BiDi listening on ws://127.0.0.1:64642
+Read port: 64650
+1735381184183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381189300	Marionette	INFO	Stopped listening on port 64650
+Dynamically enable window occlusion 1
+1735381190469	geckodriver	INFO	Listening on 127.0.0.1:64721
+1735381193497	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileyhnc7z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381193841	Marionette	INFO	Marionette enabled
+1735381193971	Marionette	INFO	Listening on port 64730
+WebDriver BiDi listening on ws://127.0.0.1:64722
+Read port: 64730
+1735381194153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381199683	Marionette	INFO	Stopped listening on port 64730
+Dynamically enable window occlusion 1
+1735381200519	geckodriver	INFO	Listening on 127.0.0.1:64798
+1735381203554	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileCuzOs0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381203874	Marionette	INFO	Marionette enabled
+1735381203987	Marionette	INFO	Listening on port 64807
+WebDriver BiDi listening on ws://127.0.0.1:64799
+Read port: 64807
+1735381204152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381209234	Marionette	INFO	Stopped listening on port 64807
+Dynamically enable window occlusion 1
+1735381423283	geckodriver	INFO	Listening on 127.0.0.1:64973
+1735381426343	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "64974" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileiIwEWu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381426660	Marionette	INFO	Marionette enabled
+1735381426772	Marionette	INFO	Listening on port 64982
+WebDriver BiDi listening on ws://127.0.0.1:64974
+Read port: 64982
+1735381426954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381432477	Marionette	INFO	Stopped listening on port 64982
+JavaScript warning: https://consent.cookiebot.com/uc.js?cbid=faf6374b-99ee-4276-b877-b40111fd8ce0&implementation=gtm&consentmode-dataredaction=dynamic, line 2: Script terminated by timeout at:
+window.CookieControl.Cookie/this.checkForBulkConsent/<@https://consent.cookiebot.com/uc.js?cbid=faf6374b-99ee-4276-b877-b40111fd8ce0&implementation=gtm&consentmode-dataredaction=dynamic:2:66911
+
+Dynamically enable window occlusion 1
+1735381433273	geckodriver	INFO	Listening on 127.0.0.1:65046
+1735381436303	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileXxMnPx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381436712	Marionette	INFO	Marionette enabled
+1735381436823	Marionette	INFO	Listening on port 65056
+WebDriver BiDi listening on ws://127.0.0.1:65047
+Read port: 65056
+1735381436990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381442270	Marionette	INFO	Stopped listening on port 65056
+Dynamically enable window occlusion 1
+1735381443150	geckodriver	INFO	Listening on 127.0.0.1:65117
+1735381446190	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofileup5s2l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381446514	Marionette	INFO	Marionette enabled
+1735381446624	Marionette	INFO	Listening on port 65129
+WebDriver BiDi listening on ws://127.0.0.1:65118
+Read port: 65129
+1735381446794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381451860	Marionette	INFO	Stopped listening on port 65129
+Dynamically enable window occlusion 1
+1735381452651	geckodriver	INFO	Listening on 127.0.0.1:65194
+1735381455699	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilejJKaZt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381456013	Marionette	INFO	Marionette enabled
+1735381456123	Marionette	INFO	Listening on port 65203
+WebDriver BiDi listening on ws://127.0.0.1:65195
+Read port: 65203
+1735381456291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381461376	Marionette	INFO	Stopped listening on port 65203
+Dynamically enable window occlusion 1
+1735381462159	geckodriver	INFO	Listening on 127.0.0.1:65269
+1735381465203	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65270" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilePAV5E1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381465538	Marionette	INFO	Marionette enabled
+1735381465651	Marionette	INFO	Listening on port 65279
+WebDriver BiDi listening on ws://127.0.0.1:65270
+Read port: 65279
+1735381465819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381470811	Marionette	INFO	Stopped listening on port 65279
+Dynamically enable window occlusion 1
+1735381652835	geckodriver	INFO	Listening on 127.0.0.1:65430
+1735381655894	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofile2fsKCN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381656211	Marionette	INFO	Marionette enabled
+1735381656321	Marionette	INFO	Listening on port 65440
+WebDriver BiDi listening on ws://127.0.0.1:65431
+Read port: 65440
+1735381656497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381662055	Marionette	INFO	Stopped listening on port 65440
+Dynamically enable window occlusion 1
+1735381662856	geckodriver	INFO	Listening on 127.0.0.1:65503
+1735381665892	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "65504" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilef4Kt2C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381666306	Marionette	INFO	Marionette enabled
+1735381666417	Marionette	INFO	Listening on port 65512
+WebDriver BiDi listening on ws://127.0.0.1:65504
+Read port: 65512
+1735381666603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381671731	Marionette	INFO	Stopped listening on port 65512
+JavaScript warning: https://consent.cookiebot.com/uc.js?cbid=faf6374b-99ee-4276-b877-b40111fd8ce0&implementation=gtm&consentmode-dataredaction=dynamic, line 2: Script terminated by timeout at:
+window.CookieControl.Cookie/this.checkForBulkConsent/<@https://consent.cookiebot.com/uc.js?cbid=faf6374b-99ee-4276-b877-b40111fd8ce0&implementation=gtm&consentmode-dataredaction=dynamic:2:66911
+
+Dynamically enable window occlusion 1
+1735381672621	geckodriver	INFO	Listening on 127.0.0.1:49191
+1735381675666	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "49192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofilekcy6dz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381675985	Marionette	INFO	Marionette enabled
+1735381676096	Marionette	INFO	Listening on port 49201
+WebDriver BiDi listening on ws://127.0.0.1:49192
+Read port: 49201
+1735381676261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381681262	Marionette	INFO	Stopped listening on port 49201
+Dynamically enable window occlusion 1
+1735381682054	geckodriver	INFO	Listening on 127.0.0.1:49265
+1735381685103	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "--remote-debugging-port" "49266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\OPTIMU~1\\AppData\\Local\\Temp\\rust_mozprofile66U1UM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1735381685416	Marionette	INFO	Marionette enabled
+1735381685525	Marionette	INFO	Listening on port 49275
+WebDriver BiDi listening on ws://127.0.0.1:49266
+Read port: 49275
+1735381685691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://www.lambdatest.com/_next/static/chunks/framework-22c76c6e1a554a8b.js, line 1: Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1735381690498	Marionette	INFO	Stopped listening on port 49275
+Dynamically enable window occlusion 1
