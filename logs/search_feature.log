@@ -1,36 +1,36 @@
-2024-12-28 16:41:46,577: INFO: Launching browser.........
-2024-12-28 16:41:46,577: INFO: ******* Starting qa_selenium_test **********
-2024-12-28 16:41:47,239: INFO: Opening Application
-2024-12-28 16:41:47,514: INFO: Performing searchbox operation
-2024-12-28 16:41:47,514: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: Closing Browser..........
-2024-12-28 16:41:50,488: INFO: ******* End of qa_selenium_test **********
+2024-12-28 16:45:46,181: INFO: Launching browser.........
+2024-12-28 16:45:46,181: INFO: ******* Starting qa_selenium_test **********
+2024-12-28 16:45:46,893: INFO: Opening Application
+2024-12-28 16:45:47,172: INFO: Performing searchbox operation
+2024-12-28 16:45:47,172: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: Closing Browser..........
+2024-12-28 16:45:50,149: INFO: ******* End of qa_selenium_test **********
 arting qa_selenium_test **********
-2024-12-28 16:41:47,239: INFO: Opening Application
-2024-12-28 16:41:47,514: INFO: Performing searchbox operation
-2024-12-28 16:41:47,514: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: Closing Browser..........
-2024-12-28 16:41:50,488: INFO: ******* End of qa_selenium_test **********
+2024-12-28 16:45:46,893: INFO: Opening Application
+2024-12-28 16:45:47,172: INFO: Performing searchbox operation
+2024-12-28 16:45:47,172: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: Closing Browser..........
+2024-12-28 16:45:50,149: INFO: ******* End of qa_selenium_test **********
 INFO: ******* Starting qa_selenium_test **********
-2024-12-28 16:41:47,239: INFO: Opening Application
-2024-12-28 16:41:47,514: INFO: Performing searchbox operation
-2024-12-28 16:41:47,514: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: Closing Browser..........
-2024-12-28 16:41:50,488: INFO: ******* End of qa_selenium_test **********
-1:46,577: INFO: ******* Starting qa_selenium_test **********
-2024-12-28 16:41:47,239: INFO: Opening Application
-2024-12-28 16:41:47,514: INFO: Performing searchbox operation
-2024-12-28 16:41:47,514: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: Closing Browser..........
-2024-12-28 16:41:50,488: INFO: ******* End of qa_selenium_test **********
+2024-12-28 16:45:46,893: INFO: Opening Application
+2024-12-28 16:45:47,172: INFO: Performing searchbox operation
+2024-12-28 16:45:47,172: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: Closing Browser..........
+2024-12-28 16:45:50,149: INFO: ******* End of qa_selenium_test **********
+5:46,181: INFO: ******* Starting qa_selenium_test **********
+2024-12-28 16:45:46,893: INFO: Opening Application
+2024-12-28 16:45:47,172: INFO: Performing searchbox operation
+2024-12-28 16:45:47,172: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: Closing Browser..........
+2024-12-28 16:45:50,149: INFO: ******* End of qa_selenium_test **********
 INFO: ******* Starting qa_selenium_test **********
-2024-12-28 16:41:47,239: INFO: Opening Application
-2024-12-28 16:41:47,514: INFO: Performing searchbox operation
-2024-12-28 16:41:47,514: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-2024-12-28 16:41:49,744: INFO: Closing Browser..........
-2024-12-28 16:41:50,488: INFO: ******* End of qa_selenium_test **********
+2024-12-28 16:45:46,893: INFO: Opening Application
+2024-12-28 16:45:47,172: INFO: Performing searchbox operation
+2024-12-28 16:45:47,172: INFO: Showing the result for aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: PASS case for input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2024-12-28 16:45:49,395: INFO: Closing Browser..........
+2024-12-28 16:45:50,149: INFO: ******* End of qa_selenium_test **********

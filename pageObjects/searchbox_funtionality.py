@@ -5,8 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class Search_feature:
     search_xpath = "//input[@type='search']"
-    # table_rows_xpath = "//table[@id='example']/tbody/tr"
-    confirm_msg_xpath = "//*[@id='example_info']"
+    num_of_enteries_msg_xpath = "//*[@id='example_info']"
 
     def __init__(self, driver):
         self.driver = driver
@@ -17,5 +16,5 @@ class Search_feature:
 
     def row_count(self):
         results_text = WebDriverWait(self.driver, 5).until(
-            EC.presence_of_element_located((By.XPATH, self.confirm_msg_xpath))).text
+            EC.presence_of_element_located((By.XPATH, self.num_of_enteries_msg_xpath))).text
         return results_text
