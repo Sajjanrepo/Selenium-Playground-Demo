@@ -73,7 +73,7 @@ Practices Followed:
 Setup Instructions
 -----------------------
 1) Clone the repository:   git clone https://github.com/Sajjanrepo/Selenium-Playground-Demo.git
-2) cd <repository folder>
+2) cd repository_folder
 3) Install the dependencies: pip install -r requirements.txt
 
 Running the Script:
