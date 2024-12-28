@@ -18,7 +18,10 @@ class Test_Search_Feature:
         # Negative test cases
         ("RandomText123", "0 of 0 entries (filtered from 24 total entries)", "PASS"),
         ("!@#$%^&*", "0 of 0 entries (filtered from 24 total entries", "PASS"),
+
+        #Edge Test Case
         ("", "Showing 1 to 10 of 24 entries", "PASS"),
+        ("a"*50, "0 of 0 entries (filtered from 24 total entries)", "PASS"),
     ]
 
     @pytest.mark.parametrize("search_term,expected_result,Result", Test_Data)
