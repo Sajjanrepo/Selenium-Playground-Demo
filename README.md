@@ -70,6 +70,9 @@ Practices Followed:
 
 6) Followed PEP8 coding standards for Python.
 
+Setup Instructions
+-----------------------
+Clone the repository:   git clone 
 
 Running the Script:
 ----------------------
