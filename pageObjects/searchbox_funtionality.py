@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-class searchbox_and_row_count:
+class Search_feature:
     search_xpath = "//input[@type='search']"
     # table_rows_xpath = "//table[@id='example']/tbody/tr"
     confirm_msg_xpath = "//*[@id='example_info']"

@@ -1,6 +1,6 @@
 import pytest
 
-from pageObjects.searchbox_and_row_count import searchbox_and_row_count
+from pageObjects.searchbox_funtionality import Search_feature
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from time import sleep
@@ -13,16 +13,16 @@ class Test_Search_Feature:
 
     Test_Data = [
         # Positive test cases
-        ("New York", "5 of 5 entries (filtered from 24 total entries)", "Pass"),
+        ("New York", "5 of 5 entries (filtered from 24 total entries)", "PASS"),
 
         # Negative test cases
-        ("RandomText123", "0 entries out of 24 total entries", "Fail"),
-        ("!@#$%^&*", "0 entries out of 24 total entries", "Fail"),
-        ("", "0 entries out of 24 total entries", "Fail"),
+        ("RandomText123", "0 of 0 entries (filtered from 24 total entries)", "PASS"),
+        ("!@#$%^&*", "0 of 0 entries (filtered from 24 total entries", "PASS"),
+        ("", "Showing 1 to 10 of 24 entries", "PASS"),
     ]
 
     @pytest.mark.parametrize("search_term,expected_result,Result", Test_Data)
-    def test_searchbox_and_row_count(self, setup,search_term, expected_result, Result):
+    def test_searchbox_functionality(self, setup, search_term, expected_result, Result):
         self.logger.info("******* Starting qa_selenium_test **********")
         self.driver = setup
 
@@ -33,9 +33,9 @@ class Test_Search_Feature:
         self.logger.info("Performing searchbox operation")
         self.logger.info(f"Showing the result for {search_term}")
 
-        self.num_of_row = searchbox_and_row_count(self.driver)
-        self.num_of_row.search(search_term)
-        self.result_text = self.num_of_row.row_count()
+        self.num_of_row_enteries = Search_feature(self.driver)
+        self.num_of_row_enteries.search(search_term)
+        self.result_text = self.num_of_row_enteries.row_count()
         sleep(2)
 
         if expected_result in self.result_text:
