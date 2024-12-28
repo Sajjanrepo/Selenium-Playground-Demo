@@ -47,11 +47,11 @@ Prerequisites
 
 2) Selenium (version 4.x)
 
-3) Pytest (version 7.x)
+3) Pytest (version 7.x)    
 
-4) latest version of GeckoDriver installed and that it matches your Firefox browser version.
+4) Latest version of GeckoDriver installed and that it matches your Firefox browser version.
 
-5) pytest-html (for html report generation)
+5) Install pytest-html (for html report generation)
 
 6) Pycharm Editor
 
