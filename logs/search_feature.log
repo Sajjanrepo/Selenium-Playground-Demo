@@ -1,0 +1,9 @@
+2024-12-26 18:23:40,644: INFO: Launching firefox browser.........
+2024-12-26 18:23:40,645: INFO: ******* Starting qa_selenium_test **********
+2024-12-26 18:23:41,319: INFO: Opening Application
+2024-12-26 18:23:41,598: INFO: Performing searchbox operation
+2024-12-26 18:23:41,598: INFO: Calculating number of rows for New York
+2024-12-26 18:23:43,769: INFO: Number of rows Equal to 5
+2024-12-26 18:23:43,769: INFO: Test Case Passed
+2024-12-26 18:23:43,770: INFO: Closing Browser..........
+2024-12-26 18:23:44,561: INFO: ******* End of qa_selenium_test **********
