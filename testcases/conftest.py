@@ -26,7 +26,7 @@ def setup():
     # Initialize WebDriver with service and options
     driver = webdriver.Firefox(service=serv_obj, options=options)
 
-    logger.info("Launching browser.........")
+    logger.info("Launching firefox browser.........")
 
     return driver
 

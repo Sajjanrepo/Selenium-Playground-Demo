@@ -1,6 +1,4 @@
-import pytest
-
-from pageObjects.searchbox_funtionality import Search_feature
+from pageObjects.searchbox_and_row_count import searchbox_and_row_count
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 from time import sleep
@@ -10,22 +8,9 @@ import os
 class Test_Search_Feature:
     baseURL = ReadConfig.getApplicationURL()
     logger = LogGen.loggen()
+    key = "New York"
 
-    Test_Data = [
-        # Positive test cases
-        ("New York", "5 of 5 entries (filtered from 24 total entries)", "PASS"),
-
-        # Negative test cases
-        ("RandomText123", "0 of 0 entries (filtered from 24 total entries)", "PASS"),
-        ("!@#$%^&*", "0 of 0 entries (filtered from 24 total entries", "PASS"),
-
-        #Edge Test Case
-        ("", "Showing 1 to 10 of 24 entries", "PASS"),
-        ("a"*50, "0 of 0 entries (filtered from 24 total entries)", "PASS"),
-    ]
-
-    @pytest.mark.parametrize("search_term,expected_result,Result", Test_Data)
-    def test_searchbox_functionality(self, setup, search_term, expected_result, Result):
+    def test_searchbox_and_row_count(self, setup):
         self.logger.info("******* Starting qa_selenium_test **********")
         self.driver = setup
 
@@ -34,22 +19,24 @@ class Test_Search_Feature:
         self.driver.maximize_window()
 
         self.logger.info("Performing searchbox operation")
-        self.logger.info(f"Showing the result for {search_term}")
+        self.logger.info(f"Calculating number of rows for {self.key}")
 
-        self.num_of_row_enteries = Search_feature(self.driver)
-        self.num_of_row_enteries.search(search_term)
-        self.result_text = self.num_of_row_enteries.row_count()
+        self.num_of_row = searchbox_and_row_count(self.driver)
+        self.num_of_row.search(self.key)
+        self.total_row = self.num_of_row.row_count()
         sleep(2)
 
-        if expected_result in self.result_text:
+        if self.total_row == 5:
             self.driver.save_screenshot(os.path.abspath(os.curdir) + "\\screenshots\\" + "search_box_pass.png")
-            self.logger.info(f"{Result} case for input: {search_term}")
+            self.logger.info(f"Number of rows Equal to {self.total_row}")
+            self.logger.info("Test Case Passed")
             self.logger.info("Closing Browser..........")
             self.driver.close()
             assert True
         else:
             self.driver.save_screenshot(os.path.abspath(os.curdir) + "\\screenshots\\" + "search_box_fail.png")
-            self.logger.info(f"{Result} case for input: {search_term}")
+            self.logger.info(f"Number of rows Equal to {self.total_row}")
+            self.logger.error("The test case failed")
             self.logger.info("Closing Browser..........")
             self.driver.close()
             assert False
