@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Selenium Playground Search Functionality Automation
 
 Overview
@@ -75,4 +76,3 @@ Running the Script:
 ----------------------
 1) run test cases using Pytest:
    pytest -s -v .\testcases\qa_selenium_test.py
-
